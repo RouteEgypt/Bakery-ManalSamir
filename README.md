@@ -15,5 +15,5 @@
       </div>
   <div>
         <strong>Live Demo:</strong>
-        <span>https://routeegypt.github.io/Bakery-manal-samir-alex/</span>
+        <span>https://routeegypt.github.io/Bakery-ManalSamir/</span>
       </div>
